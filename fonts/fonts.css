@@ -1,0 +1,119 @@
+@font-face {
+    font-family: 'AT Osmose';
+    src: url('../fonts/ATOsmose-UltraLightItalic.eot');
+    src: local('AT Osmose UltraLight Italic'), local('ATOsmose-UltraLightItalic'),
+        url('ATOsmose-UltraLightItalic.eot?#iefix') format('embedded-opentype'),
+        url('ATOsmose-UltraLightItalic.woff2') format('woff2'),
+        url('ATOsmose-UltraLightItalic.woff') format('woff'),
+        url('ATOsmose-UltraLightItalic.ttf') format('truetype');
+    font-weight: 200;
+    font-style: italic;
+}
+
+@font-face {
+    font-family: 'AT Osmose';
+    src: url('../fonts/ATOsmose-Bold.eot');
+    src: local('AT Osmose Bold'), local('ATOsmose-Bold'),
+        url('../fonts/ATOsmose-Bold.eot?#iefix') format('embedded-opentype'),
+        url('../fonts/ATOsmose-Bold.woff2') format('woff2'),
+        url('../fonts/ATOsmose-Bold.woff') format('woff'),
+        url('../fonts/ATOsmose-Bold.ttf') format('truetype');
+    font-weight: bold;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'AT Osmose';
+    src: url('../fonts/ATOsmose-Regular.eot');
+    src: local('AT Osmose Regular'), local('ATOsmose-Regular'),
+        url('../fonts/ATOsmose-Regular.eot?#iefix') format('embedded-opentype'),
+        url('../fonts/ATOsmose-Regular.woff2') format('woff2'),
+        url('../fonts/ATOsmose-Regular.woff') format('woff'),
+        url('../fonts/ATOsmose-Regular.ttf') format('truetype');
+    font-weight: normal;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'AT Osmose';
+    src: url('../fonts/ATOsmose-BoldItalic.eot');
+    src: local('../fonts/AT Osmose Bold Italic'), local('ATOsmose-BoldItalic'),
+        url('../fonts/ATOsmose-BoldItalic.eot?#iefix') format('embedded-opentype'),
+        url('../fonts/ATOsmose-BoldItalic.woff2') format('woff2'),
+        url('../fonts/ATOsmose-BoldItalic.woff') format('woff'),
+        url('../fonts/ATOsmose-BoldItalic.ttf') format('truetype');
+    font-weight: bold;
+    font-style: italic;
+}
+
+@font-face {
+    font-family: 'AT Osmose';
+    src: url('../fonts/ATOsmose-Medium.eot');
+    src: local('../fonts/AT Osmose Medium'), local('ATOsmose-Medium'),
+        url('../fonts/ATOsmose-Medium.eot?#iefix') format('embedded-opentype'),
+        url('../fonts/ATOsmose-Medium.woff2') format('woff2'),
+        url('../fonts/ATOsmose-Medium.woff') format('woff'),
+        url('../fonts/ATOsmose-Medium.ttf') format('truetype');
+    font-weight: 500;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'AT Osmose';
+    src: url('../fonts/ATOsmose-UltraLight.eot');
+    src: local('AT Osmose UltraLight'), local('ATOsmose-UltraLight'),
+        url('../fonts/ATOsmose-UltraLight.eot?#iefix') format('embedded-opentype'),
+        url('../fonts/ATOsmose-UltraLight.woff2') format('woff2'),
+        url('../fonts/ATOsmose-UltraLight.woff') format('woff'),
+        url('../fonts/ATOsmose-UltraLight.ttf') format('truetype');
+    font-weight: 200;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'AT Osmose';
+    src: url('../fonts/ATOsmose-RegularItalic.eot');
+    src: local('AT Osmose Regular Italic'), local('ATOsmose-RegularItalic'),
+        url('../fonts/ATOsmose-RegularItalic.eot?#iefix') format('embedded-opentype'),
+        url('../fonts/ATOsmose-RegularItalic.woff2') format('woff2'),
+        url('../fonts/ATOsmose-RegularItalic.woff') format('woff'),
+        url('../fonts/ATOsmose-RegularItalic.ttf') format('truetype');
+    font-weight: normal;
+    font-style: italic;
+}
+
+@font-face {
+    font-family: 'AT Osmose';
+    src: url('../fonts/ATOsmose-LightItalic.eot');
+    src: local('AT Osmose Light Italic'), local('ATOsmose-LightItalic'),
+        url('../fonts/ATOsmose-LightItalic.eot?#iefix') format('embedded-opentype'),
+        url('../fonts/ATOsmose-LightItalic.woff2') format('woff2'),
+        url('../fonts/ATOsmose-LightItalic.woff') format('woff'),
+        url('../fonts/ATOsmose-LightItalic.ttf') format('truetype');
+    font-weight: 300;
+    font-style: italic;
+}
+
+@font-face {
+    font-family: 'AT Osmose';
+    src: url('../fonts/ATOsmose-MediumItalic.eot');
+    src: local('../fonts/AT Osmose Medium Italic'), local('../fonts/ATOsmose-MediumItalic'),
+        url('../fonts/ATOsmose-MediumItalic.eot?#iefix') format('embedded-opentype'),
+        url('../fonts/ATOsmose-MediumItalic.woff2') format('woff2'),
+        url('../fonts/ATOsmose-MediumItalic.woff') format('woff'),
+        url('../fonts/ATOsmose-MediumItalic.ttf') format('truetype');
+    font-weight: 500;
+    font-style: italic;
+}
+
+@font-face {
+    font-family: 'AT Osmose';
+    src: url('../fonts/ATOsmose-Light.eot');
+    src: local('../fonts/AT Osmose Light'), local('../fonts/ATOsmose-Light'),
+        url('../fonts/ATOsmose-Light.eot?#iefix') format('embedded-opentype'),
+        url('../fonts/ATOsmose-Light.woff2') format('woff2'),
+        url('../fonts/ATOsmose-Light.woff') format('woff'),
+        url('../fonts/ATOsmose-Light.ttf') format('truetype');
+    font-weight: 300;
+    font-style: normal;
+}
